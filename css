@@ -1,0 +1,12 @@
+body {
+  margin-top:60px;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-caption{
+  text-align: center;
+}
